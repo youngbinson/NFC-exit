@@ -7,7 +7,7 @@ void setup() {
   printArray(Serial.list());
   // Open the port you are using at the rate you want:
   myPort = new Serial(this, Serial.list()[0], 9600);
-  
+  loadStrings("http://sdh306.dothome.co.kr/?user=");
 }
 
 void draw() {
