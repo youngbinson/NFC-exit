@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Button</string>
+    <string name="box">위급 상황일때만 눌러주세요</string>
+    <string name="phonenum">전화번호</string>
+    <string name="username">이름</string>
+    <string name="sign_up">버튼</string>
+    <string name="sign_up1">sign-up</string>
+</resources>
